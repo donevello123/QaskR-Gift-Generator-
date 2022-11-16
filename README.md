@@ -1,5 +1,4 @@
 # QaskR-Gift-Generator
-<h1>QaskR Gift Generator Examples</h1>
 Code snippets created for the gift generator of QaskR
 
 The gift generator can be found here: https://qaskr.com/pages/gift-generator
